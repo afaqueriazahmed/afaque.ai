@@ -1,0 +1,152 @@
+AFAQUE RIAZ AHMED
+9211 West Road, Suite 143       https://www.linkedin.com/in/afaqueriazahmed/	          +1.832.946.7531 US Mobile
+Houston, TX 77064              	              afaque@gmail.com		         +92.345.2222044 WhatsApp
+A third-generation serial entrepreneur with a 17-year proven track record of setting up successful technology start-ups.  With domain expertise ranging from Semiconductors, Telecommunications, Software, Technical and Higher Education, Blockchain and Public Advocacy, now focused on re-connecting with his Semiconductor roots and pivoting his passion for making a difference at scale again.
+    FORMAL EDUCATION & CERTIFICATIONS
+HARVARD UNIVERSITY, CAMBRIDGE, MA					    SEP 2020 � SEP 2020
+Fundamentals of Neuroscience (A three course X-Series Program)
+
+IC2 INSTITUTE - THE UNIVERSITY OF TEXAS AT AUSTIN, AUSTIN, TX		   OCT 2014 � OCT 2014
+Converting Technology to Wealth: Technology Transfer Training
+
+SINGULARITY UNIVERSITY, MOUNTAIN VIEW, CA		                	   APR 2014 � APR 2014
+Executive Program in Exponential Technologies
+
+STANFORD UNIVERSITY, STANFORD, CA		                		  MAR 2014 � MAR 2014
+Executive Program in Social Entrepreneurship
+
+UNIVERSITY OF CALIFORNIA AT SAN DIEGO, SAN DIEGO, CA		               APR 2003 � MAR 2004
+Certificate in CDMA Engineering
+
+STANFORD UNIVERSITY, STANFORD, CA					    FEB 2001 � JUN 2003
+Non-Degree Student � EE and MS&E
+
+McGILL UNIVERSITY, MONTREAL, CANADA                                                                SEP 1995 � MAY 1997
+Master of Business Administration (Management and Finance)							
+
+THE UNIVERSITY OF TEXAS AT AUSTIN, AUSTIN, TEXAS			               AUG 1991 � MAY 1995
+Bachelor of Science in Electrical Engineering
+
+
+PROFESSIONAL EXPERIENCE
+
+CHIEF TECHNICAL OFFICER				 	                              DEC 2004 � JUN 2006
+SIDO TELECOM INC., ON, CANADA
+* Responsible for setting up and running the Network Operations Center for a Voice Over IP Wholesale Voice Aggregator connected with at least 100 Telcos worldwide.
+
+NETCOM FIELD APPLICATIONS   						   JAN 2003 � NOV 2004
+MICRON TECHNOLOGY, SAN JOSE, CA
+* Field Applications Engineer for the West Coast/USA for Micron�s Memory Chipsets.
+
+BROADBAND SYSTEMS ENGINEERING				                	    MAY 2000 � DEC 2002
+TEXAS INSTRUMENTS, SAN JOSE, CA
+* Field Application Engineer for the West Coast/USA for primarily TI DSL and Cable Modem chipset solutions.
+
+CABLE BROADBAND INTEROPERABILITY ENGINEER 		    	                OCT 1999 � MAY 2000
+TEXAS INSTRUMENTS, HOUSTON, TX
+* Pre and Post Sales Product Technical Support for TI Cable Modem customers in the USA.
+* Interoperability/Testing Lab Lead for Cable Modem DOCSIS Compliance Testing and VoIP/SIP.
+
+INTERNET AUDIO MARKETING ENGINEER                         		                JAN 1999 � OCT 1999
+TEXAS INSTRUMENTS, HOUSTON, TX
+* Pre and Post Sales Product Technical Support and Customer Advocacy for TI Internet Audio/MP3 customers in the USA.  Developed Product Data Sheets and Tested Software for benchmarking.
+
+VOIP PRODUCT MARKETING ENGINEER					                APR 1998 � JAN 1999
+TEXAS INSTRUMENTS, HOUSTON, TX
+* Pre and Post Sales Product Technical Support and Customer Advocacy for TI VoIP customers in the USA.
+
+DSP PRODUCT MARKETING ENGINEER 					     	   NOV 1997 � APR 1998
+TEXAS INSTRUMENTS, HOUSTON, TX
+* Pre and Post Sales Product Technical Support and Customer Advocacy for TI DSP customers in the USA/West Coast.
+
+UNDERGRADUATE RESEARCH ASSISTANT / SOFTWARE DEVELOPER 		    JUN 1992 � MAY 1995
+DEPARTMENT OF PHYSICS, UNIVERSITY OF TEXAS AT AUSTIN
+* Wrote Data Acquisition and Visualization Software in C/LabView and by using National Instruments Boards for Physics graduate students doing doctoral work in the UT Femtosecond Spectroscopy Lab.
+* Besides monthly stipend, health insurance and other benefits, this academic/research position enabled waivers of UT International Student Fees enabling me to self-fund my entire college education without any student loans.
+
+EDUCATION AND TECHNOLOGY ENTREPRENEURSHIP EXPERIENCE
+FOUNDER AND PRESIDENT						        		     2012 � 2023       KARACHI INSTITUTE OF TECHNOLOGY AND ENTREPRENEURSHIP (KITE)                 KARACHI, PAKISTAN
+(http://www.kite.edu.pk)
+
+The Karachi Institute of Technology and Entrepreneurship (KITE) is a not for profit, young, accredited, degree granting institution of higher learning, located in Karachi, a city of 30 million people.  KITE�s mission is to craft and cultivate entrepreneurs and change agents using its unique interdisciplinary undergraduate and graduate programs, while also nurturing other requisite aspects of the entrepreneurial ecosystem in the city/country.  Currently, KITE is offering degrees in computer science, engineering, business administration, design and architecture, and law since 2013.  Technology and the entrepreneurial spirit are in the DNA of the Institute which permeates the campus ecosystem and in every degree program offered.  Currently, KITE is operating from its 100,000 sq. ft starter campus in Korangi Creek, Karachi.  By 2035, KITE�s sponsors intend to build a long term custom residential campus over a few hundred acres in Karachi.
+
+
+FOUNDER & CHAIRPERSON				 		                         	     2011 � 2023
+THE EDUCATION ENRICHMENT FOUNDATION					    KARACHI, PAKISTAN
+
+Founded in the later part of 2011, The Education Enrichment Foundation (EduEnrich) is a not-for-profit under section 42 of the Companies Ordinance, 1984. The key inspiration behind the Education Enrichment Foundation (EduEnrich) is an overwhelming dedication towards STEM (Science, Technology, Engineering and Math) education combined with entrepreneurship aimed towards creating wealth and income generating opportunities for the young people of Pakistan. The Foundation is motivated by an urgent need to address the lack of suitable focus towards science and technology, absence of structured career guidance, poorly trained graduates and rising unemployment, but a sound conviction that immediate action is required.
+
+
+FOUNDER & DIRECTOR			 			   	                         	     2011 � 2013
+ROBOTICS LABS (PRIVATE) LIMITED                                                                            KARACHI, PAKISTAN
+
+Robotics Labs has a sole purpose of integrating real world ideas with the latest in technology. It aims at bringing relatively newer frontiers of science and technology to its students.
+
+Students have the opportunity to learn cutting edge technologies in Robotics, 3D Modeling, 3D Simulation, Movie Making, Game Applications, Computer Programming and many more through interesting workshops held throughout the year. The facility offers state of the art equipment, laptops, robotics kits, highly trained teachers and high-end software to enable kids to learn by doing. 
+
+Some of the milestones which this venture has achieved so far:
+
+* Over 40,000 student enrollments (as of 2018) from ages 5�18 years
+* 40 major and renowned schools of Karachi have incorporated Robotics Labs program as a part of their morning curriculum.
+* Successfully organized and hosted the First Lego League (FLL) competition in collaboration with The Education Enrichment Foundation and STARFALL Foundation in 2013 and 2014 in Karachi
+
+
+FOUNDER & CEO					 		                         2022 � PRESENT
+GIGA MINING, INC                                                                                		        HOUSTON, TX, USA
+
+Giga Mining (dba: Giga Computing) is a high-performance computing company with data centers setup for cryptographic computations for specific blockchain networks.
+
+
+FOUNDER & DIRECTOR					 		                               2006 � 2013
+BREEZECOM GROUP OF COMPANIES                                                                         CYBERJAYA, MALAYSIA
+
+Conceived and founded a network of companies which span over five nations and does International Wholesale Voice Aggregation for Telecom Companies. Based out of Cyberjaya, Malaysia, the entire group is structured in such a fashion that it boasts seven different departments with efficient systems and SOP�s in place to allow it to work seamlessly across various locations. Below are some of the highlights of what Breezecom achieved:
+
+* Hired over 100 efficient and highly trained technical employees across Malaysia, Pakistan, UAE, Singapore and Hong Kong
+* Yearly turnover of USD 45 million within 5 years
+* Interconnected with over 500 telecom companies worldwide and traded over two billion minutes annually
+* Deployed a carrier-class voice network based out of New York and Boston Data Centers.
+* Led the Research and Development department that built its own next-generation voice softswitch and a carrier-class Telco ERP which has the ability to scale few thousand simultaneous calls per server.
+* Breezecom�s RnD efforts have been recognized through awards in 2011 by both industry associations including P@SHA, Pakistan and TMC.net, USA as well as government entities like the ICTRND Fund, Pakistan and MdeC, Malaysia.
+
+
+
+OTHER INITIATIVES
+
+LEGISLATIVE INITIATIVES
+Up until very recently (Aug 2016), there were no laws which addressed and regulated cyber crimes in Pakistan.
+
+* Identified weaknesses in the old pseudo-legislations being used in Pakistan related to Cyber Crimes.
+* Supervised, funded and proposed new legislation to overcome those weaknesses and created a stronger framework on which future laws should be based.
+* Mobilized all stakeholders including industry veterans, legislative experts, lawyers, lobbyists and politicians in order to get the new law in effect from the parliament.
+* Presented, debated and defended the draft law in the National Assembly of Pakistan several times.
+
+
+CENTRAL EXECUTIVE COMMITTEE, P@SHA
+* Member of the Central Executive Committee (Governing Board) of Pakistan Software Houses Association (P@SHA) 2011-2013. http://pasha.org.pk/
+* Treasurer of P@SHA 2012-2013.
+
+
+OTHER PHILANTHROPIC INITIATIVES
+* Have been working closely with The Citizens� Foundation, a Pakistani not-for-profit entity focused on primary and secondary education in Pakistan, operating for the last 28 years and managing around 1000 schools providing quality education to marginalized communities. 
+* Have been the project co-lead and an invaluable resource (both funding and execution) for one of their flagship campuses� The Deena Mistri campus, currently (2023) accommodating more than 1000 school children. https://www.tcf.org.pk/schools/sindh/deena-minoo-mistri-campus/
+* Supervised government relations, land acquisition, architectural and structural approvals, and land title litigations pertaining to this project.
+
+Afaque Riaz Ahmed                                                   Page | 2
+
+
+Afaque Riaz Ahmed                                                   Page | 3
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+

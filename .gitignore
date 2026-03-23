@@ -1,0 +1,10 @@
+.env
+.env.local
+node_modules/
+dist/
+build/
+Others/
+*.exe
+*.msi
+*.dmg
+.DS_Store
