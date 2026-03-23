@@ -12,6 +12,7 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@astrojs/vercel": "^10.0.2",
     "astro": "^6.0.7",
     "groq-sdk": "^1.1.1",
     "openai": "^6.32.0",
