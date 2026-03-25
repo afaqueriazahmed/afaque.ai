@@ -1,5 +1,5 @@
 ---
-// Improved Chat Interface Component
+// Improved Chat Interface Component - FIXED
 ---
 
 <div class="chat-wrapper">
@@ -127,10 +127,6 @@
 
   .message.user-message {
     justify-content: flex-end;
-  }
-
-  .message.user-message .message-avatar {
-    order: 2;
   }
 
   .message-content {
@@ -295,15 +291,12 @@
     const message = messageInput.value.trim();
     if (!message) return;
 
-    // Add user message to chat
+    // Add user message to chat (NO AVATAR)
     const userMessageDiv = document.createElement('div');
     userMessageDiv.className = 'message user-message';
     userMessageDiv.innerHTML = `
       <div class="message-content">
         <p>${escapeHtml(message)}</p>
-      </div>
-      <div class="message-avatar">
-        <img src="/ProfilePicture-HD.jpg" alt="You" />
       </div>
     `;
     chatMessages.appendChild(userMessageDiv);
