@@ -1,0 +1,53 @@
+LINKEDIN ARTICLE: Bitcoin Mining => Computing Electrons
+By: Afaque Riaz Ahmed
+Published: June 24, 2022
+
+TITLE: Bitcoin Mining => Computing Electrons
+
+ARTICLE CONTENT:
+
+In its utmost simplicity, Bitcoin's (BTC) High Performance Cryptographic Computations (aka: mining) is an energy monetization process. Since the raw material (electrical energy/electrons) is more or less 95% of its input costs and the revenue side is digitally secured every 10-minutes or so, calling it energy/electron monetization is a very reasonable and an accurate abstraction of the entire workflow, though not exclusively so.
+
+A simplified view of this monetization equation is:
+
+Energy: Electrons => High Performance Computations => Reward: BTC => Exchange: USD [optional].
+
+One merely needs a stable (24x7x365) energy source, a decent internet connection (4G is good enough), and the requisite machines, configured properly, which perform these specific computation functions, in order to secure the reward (BTC) for the work done for the network. This is the essence of cryptoeconomics, which may be formally defined as: Cryptoeconomics refers to the combinations of cryptography, computer networks and game theory which provide secured and decentralized systems which use some set of economic incentives to provide for their maintenance.
+
+The reward (BTC) is allocated to the Computing Farm (factory) by the Bitcoin network for performing the essential security functions for the network. If the reward (BTC) or the network itself were easily hackable, it would instantly become worthless. Think about a 100 USD bill/note; what worth would it have without all the requisite security features which ensure its authenticity? In short, NONE. Similarly, these computations enable the security features for the Bitcoin network; therefore, the computers which perform this difficult task have to be rewarded monetarily and instantly – cryptoeconomics.
+
+Since this reward (BTC) by the Bitcoin network is easily convertible into fiat (USD/Euro/GBP….) within 5 seconds, the BTC can conceptually be replaced with USD or any other stable/fiat currency of choice. Assuming the reward is NOT liquid and/or speculative is a commonly believed fallacy by a large audience.
+
+One megawatt (MW) of these power hungry machines can be installed in a standard, mobile 40 ft shipping container; a smaller setup can be made to fit in a 20 ft or a 10 ft container; therefore, as such, the factory can come to the power source, hence, NO need to tax the transmission and the distribution network of the electrical grid.
+
+The monetization and conversion into fiat, if needed, may occur over the Internet and/or within the same or other licensed jurisdictions; and the resultant funds can be remitted back through the standard banking channels. Asserting that these funds are NOT traceable is another huge, commonly held, fallacy.
+
+In short, the actual technical function/work performed in this factory is – Energy Intensive High Performance Computing Services Export. Conflating too many inapplicable, non-value add concepts, to a rather simple computer services export business, is a disservice to IT Entrepreneurship and will eventually lead to further backwardness of societies which do not embrace technologies from the 4th Industrial Revolution.
+
+If the monetization side is secured and certain through these computations, just imagine how empowering it is for the off-grid/rural communities to mobilize the requisite resources to build off-grid power plants for themselves, which eventually, if big enough, can be used for many other aspects of their lives. This is akin to the Internet Revolution of the 1990s for the rural communities.
+
+Just pause and think for a minute; the wind is blowing, this natural resource can be monetized; the sun is shining, the associated solar energy can be monetized; the water is flowing from the mountains, this potential energy can be monetized; flare gas in the oil and gas fields is being burnt/wasted to keep the pressure off the rigs for stability, can be monetized; the geothermal energy of the volcanoes, can be monetized; the list goes on…
+
+CONCLUSION:
+
+Bitcoin Computations Services Export is a perfect marriage of off-grid/untapped energy resources, available mostly in the rural and non-urban areas AND the 4th Industrial Revolution.
+
+KEY THEMES:
+
+- Energy Monetization: Bitcoin mining as a process of converting electrical energy into digital currency
+- Cryptoeconomics: The intersection of cryptography, computer networks, and game theory
+- Sustainability: Leveraging renewable and off-grid energy sources for computing
+- Rural Empowerment: Enabling rural communities to monetize their natural resources
+- Industrial Revolution 4.0: Technology adoption for economic development
+- Infrastructure: Portable computing solutions that come to the energy source rather than the reverse
+- Economic Impact: Creating export opportunities through energy-intensive computing services
+
+AUTHOR'S PERSPECTIVE:
+
+This article reflects Afaque's deep understanding of:
+- Blockchain and cryptocurrency economics
+- High-performance computing infrastructure
+- Renewable energy integration
+- Rural development and economic empowerment
+- The intersection of technology and sustainable development
+- The potential of the 4th Industrial Revolution for emerging economies
