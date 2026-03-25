@@ -1,24 +1,14 @@
 ---
-// Professional Profile Header Component
+// Professional Profile Header Component - Compact Layout
 ---
 
 <header class="profile-header">
-  <div class="banner-container">
-    <img src="/HIGGS-banner-16x9-white-bg-black-text.png" alt="Higgs Computing Banner" class="banner-image" />
-  </div>
-  
   <div class="profile-container">
     <div class="profile-content">
-      <div class="profile-picture-wrapper">
-        <img src="/ProfilePicture-HD.jpg" alt="Afaque Riaz Ahmed" class="profile-picture" />
-      </div>
-      
-      <div class="profile-info">
-        <h1 class="profile-name">Afaque Riaz Ahmed</h1>
-        <p class="profile-tagline">Founder and CEO | Energy, Bitcoin, Blockchain and Fintech</p>
-        <p class="profile-bio">
-          A third-generation serial entrepreneur with a 20-year track record of setting up technology start-ups, with domain expertise ranging from Semiconductors, Telecommunications, Software, Technical and Higher Education, Blockchain/HPC and Public Advocacy.
-        </p>
+      <div class="profile-section">
+        <div class="profile-picture-wrapper">
+          <img src="/ProfilePicture-HD.jpg" alt="Afaque Riaz Ahmed" class="profile-picture" />
+        </div>
         
         <div class="profile-links">
           <a href="https://www.linkedin.com/in/afaqueriazahmed/" target="_blank" rel="noopener noreferrer" class="social-link linkedin">
@@ -28,6 +18,14 @@
             LinkedIn
           </a>
         </div>
+      </div>
+      
+      <div class="profile-info">
+        <h1 class="profile-name">Afaque Riaz Ahmed</h1>
+        <p class="profile-tagline">Founder and CEO | Energy, Bitcoin, Blockchain and Fintech</p>
+        <p class="profile-bio">
+          A third-generation serial entrepreneur with a 20-year track record of setting up technology start-ups, with domain expertise ranging from Semiconductors, Telecommunications, Software, Technical and Higher Education, Blockchain/HPC and Public Advocacy.
+        </p>
       </div>
     </div>
   </div>
@@ -39,19 +37,6 @@
     border-bottom: 1px solid #e0e0e0;
   }
 
-  .banner-container {
-    width: 100%;
-    height: 200px;
-    overflow: hidden;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  }
-
-  .banner-image {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-  }
-
   .profile-container {
     max-width: 1200px;
     margin: 0 auto;
@@ -60,10 +45,18 @@
 
   .profile-content {
     display: flex;
-    gap: 40px;
+    gap: 30px;
     align-items: flex-start;
-    padding: 40px 0;
+    padding: 24px 0;
     flex-wrap: wrap;
+  }
+
+  .profile-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+    flex-shrink: 0;
   }
 
   .profile-picture-wrapper {
@@ -71,41 +64,40 @@
   }
 
   .profile-picture {
-    width: 160px;
-    height: 160px;
+    width: 100px;
+    height: 100px;
     border-radius: 12px;
     object-fit: cover;
-    border: 4px solid white;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
-    margin-top: -80px;
+    border: 3px solid white;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
   }
 
   .profile-info {
     flex: 1;
     min-width: 300px;
-    padding-top: 20px;
+    padding-top: 0;
   }
 
   .profile-name {
-    font-size: 42px;
+    font-size: 32px;
     font-weight: 700;
-    margin: 0 0 8px 0;
+    margin: 0 0 6px 0;
     color: #1a1a1a;
     letter-spacing: -0.5px;
   }
 
   .profile-tagline {
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 600;
     color: #667eea;
-    margin: 0 0 16px 0;
+    margin: 0 0 12px 0;
   }
 
   .profile-bio {
-    font-size: 16px;
+    font-size: 15px;
     line-height: 1.6;
     color: #555;
-    margin: 0 0 24px 0;
+    margin: 0;
     max-width: 600px;
   }
 
@@ -113,20 +105,22 @@
     display: flex;
     gap: 12px;
     flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
   }
 
   .social-link {
     display: inline-flex;
     align-items: center;
     gap: 8px;
-    padding: 10px 16px;
+    padding: 8px 14px;
     background: white;
     border: 2px solid #667eea;
     border-radius: 8px;
     color: #667eea;
     text-decoration: none;
     font-weight: 600;
-    font-size: 14px;
+    font-size: 13px;
     transition: all 0.3s ease;
   }
 
@@ -138,8 +132,8 @@
   }
 
   .social-icon {
-    width: 18px;
-    height: 18px;
+    width: 16px;
+    height: 16px;
   }
 
   .social-link.linkedin:hover {
@@ -148,30 +142,34 @@
   }
 
   @media (max-width: 768px) {
-    .banner-container {
-      height: 120px;
-    }
-
     .profile-content {
       flex-direction: column;
       align-items: center;
       text-align: center;
-      gap: 20px;
-      padding: 20px 0;
+      gap: 16px;
+      padding: 16px 0;
+    }
+
+    .profile-section {
+      width: 100%;
     }
 
     .profile-picture {
-      width: 120px;
-      height: 120px;
-      margin-top: -60px;
+      width: 90px;
+      height: 90px;
+    }
+
+    .profile-info {
+      width: 100%;
+      min-width: unset;
     }
 
     .profile-name {
-      font-size: 32px;
+      font-size: 26px;
     }
 
     .profile-tagline {
-      font-size: 16px;
+      font-size: 14px;
     }
 
     .profile-bio {
