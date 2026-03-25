@@ -1,5 +1,5 @@
 ---
-// Improved Chat Interface Component - FIXED
+// Improved Chat Interface Component - CORRECTED
 ---
 
 <div class="chat-wrapper">
@@ -100,6 +100,7 @@
   .message {
     display: flex;
     gap: 12px;
+    align-items: flex-end;
     animation: slideIn 0.3s ease-out;
   }
 
@@ -116,17 +117,28 @@
 
   .message-avatar {
     flex-shrink: 0;
-  }
-
-  .message-avatar img {
     width: 36px;
     height: 36px;
     border-radius: 50%;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .message-avatar img {
+    width: 100%;
+    height: 100%;
     object-fit: cover;
+    display: block;
   }
 
   .message.user-message {
     justify-content: flex-end;
+  }
+
+  .message.user-message .message-avatar {
+    display: none;
   }
 
   .message-content {
@@ -135,6 +147,7 @@
     border-radius: 12px;
     word-wrap: break-word;
     line-height: 1.5;
+    flex-shrink: 1;
   }
 
   .bot-message .message-content {
@@ -152,6 +165,7 @@
   .message-content p {
     margin: 0;
     font-size: 15px;
+    word-break: break-word;
   }
 
   .chat-input-area {
@@ -175,6 +189,7 @@
     font-family: inherit;
     transition: all 0.3s ease;
     outline: none;
+    resize: none;
   }
 
   .chat-input:focus {
@@ -199,6 +214,7 @@
     align-items: center;
     justify-content: center;
     min-width: 50px;
+    flex-shrink: 0;
   }
 
   .send-button:hover {
@@ -301,6 +317,7 @@
     `;
     chatMessages.appendChild(userMessageDiv);
     messageInput.value = '';
+    messageInput.focus();
     chatMessages.scrollTop = chatMessages.scrollHeight;
 
     // Show loading state
