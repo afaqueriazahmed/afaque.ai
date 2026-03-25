@@ -1,5 +1,5 @@
 ---
-// Improved Chat Interface Component - CORRECTED
+// Improved Chat Interface Component - FINAL FIX
 ---
 
 <div class="chat-wrapper">
@@ -14,7 +14,7 @@
     <div class="chat-messages" id="chatMessages">
       <div class="message bot-message">
         <div class="message-avatar">
-          <img src="/ProfilePicture-HD.jpg" alt="Afaque" />
+          <img src="/ProfilePicture-HD.jpg" alt="Afaque" style="width: 36px; height: 36px; min-width: 36px; min-height: 36px; max-width: 36px; max-height: 36px;" />
         </div>
         <div class="message-content">
           <p>Hi! I'm Afaque's digital clone. Ask me anything about my career, expertise in blockchain, energy infrastructure, fintech, or my entrepreneurial journey. I'm here to help!</p>
@@ -119,18 +119,26 @@
     flex-shrink: 0;
     width: 36px;
     height: 36px;
+    min-width: 36px;
+    min-height: 36px;
     border-radius: 50%;
     overflow: hidden;
     display: flex;
     align-items: center;
     justify-content: center;
+    background: #e0e0e0;
   }
 
   .message-avatar img {
-    width: 100%;
-    height: 100%;
+    width: 36px !important;
+    height: 36px !important;
+    min-width: 36px !important;
+    min-height: 36px !important;
+    max-width: 36px !important;
+    max-height: 36px !important;
     object-fit: cover;
     display: block;
+    border-radius: 50%;
   }
 
   .message.user-message {
@@ -138,7 +146,7 @@
   }
 
   .message.user-message .message-avatar {
-    display: none;
+    display: none !important;
   }
 
   .message-content {
@@ -325,7 +333,7 @@
     loadingDiv.className = 'message bot-message';
     loadingDiv.innerHTML = `
       <div class="message-avatar">
-        <img src="/ProfilePicture-HD.jpg" alt="Afaque" />
+        <img src="/ProfilePicture-HD.jpg" alt="Afaque" style="width: 36px; height: 36px; min-width: 36px; min-height: 36px; max-width: 36px; max-height: 36px;" />
       </div>
       <div class="message-content">
         <p>Thinking...</p>
@@ -349,7 +357,7 @@
         botMessageDiv.className = 'message bot-message';
         botMessageDiv.innerHTML = `
           <div class="message-avatar">
-            <img src="/ProfilePicture-HD.jpg" alt="Afaque" />
+            <img src="/ProfilePicture-HD.jpg" alt="Afaque" style="width: 36px; height: 36px; min-width: 36px; min-height: 36px; max-width: 36px; max-height: 36px;" />
           </div>
           <div class="message-content">
             <p>${escapeHtml(data.reply)}</p>
@@ -361,7 +369,7 @@
         errorDiv.className = 'message bot-message';
         errorDiv.innerHTML = `
           <div class="message-avatar">
-            <img src="/ProfilePicture-HD.jpg" alt="Afaque" />
+            <img src="/ProfilePicture-HD.jpg" alt="Afaque" style="width: 36px; height: 36px; min-width: 36px; min-height: 36px; max-width: 36px; max-height: 36px;" />
           </div>
           <div class="message-content">
             <p>Sorry, I encountered an error. Please try again.</p>
@@ -378,7 +386,7 @@
       errorDiv.className = 'message bot-message';
       errorDiv.innerHTML = `
         <div class="message-avatar">
-          <img src="/ProfilePicture-HD.jpg" alt="Afaque" />
+          <img src="/ProfilePicture-HD.jpg" alt="Afaque" style="width: 36px; height: 36px; min-width: 36px; min-height: 36px; max-width: 36px; max-height: 36px;" />
         </div>
         <div class="message-content">
           <p>Sorry, I encountered an error. Please try again.</p>
