@@ -1,5 +1,5 @@
 ---
-// Chat Interface Component - Using CSS Background Image for Avatar
+// Chat Interface Component - Fixed Avatar Sizing with Inline Styles
 ---
 
 <div class="chat-wrapper">
@@ -302,6 +302,9 @@
   const sendButton = document.getElementById('sendButton');
   const chatMessages = document.getElementById('chatMessages');
 
+  // Inline styles for avatar - ensures they work with dynamically created elements
+  const avatarStyles = 'width: 36px; height: 36px; min-width: 36px; min-height: 36px; flex-shrink: 0; border-radius: 50%; background-image: url(\'/ProfilePicture-HD.jpg\'); background-size: cover; background-position: center; background-repeat: no-repeat;';
+
   async function sendMessage() {
     const message = messageInput.value.trim();
     if (!message) return;
@@ -323,7 +326,7 @@
     const loadingDiv = document.createElement('div');
     loadingDiv.className = 'message bot-message';
     loadingDiv.innerHTML = `
-      <div class="avatar"></div>
+      <div class="avatar" style="${avatarStyles}"></div>
       <div class="message-content">
         <p>Thinking...</p>
       </div>
@@ -345,7 +348,7 @@
         const botMessageDiv = document.createElement('div');
         botMessageDiv.className = 'message bot-message';
         botMessageDiv.innerHTML = `
-          <div class="avatar"></div>
+          <div class="avatar" style="${avatarStyles}"></div>
           <div class="message-content">
             <p>${escapeHtml(data.reply)}</p>
           </div>
@@ -355,7 +358,7 @@
         const errorDiv = document.createElement('div');
         errorDiv.className = 'message bot-message';
         errorDiv.innerHTML = `
-          <div class="avatar"></div>
+          <div class="avatar" style="${avatarStyles}"></div>
           <div class="message-content">
             <p>Sorry, I encountered an error. Please try again.</p>
           </div>
@@ -370,7 +373,7 @@
       const errorDiv = document.createElement('div');
       errorDiv.className = 'message bot-message';
       errorDiv.innerHTML = `
-        <div class="avatar"></div>
+        <div class="avatar" style="${avatarStyles}"></div>
         <div class="message-content">
           <p>Sorry, I encountered an error. Please try again.</p>
         </div>
